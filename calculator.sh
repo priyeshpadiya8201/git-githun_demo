@@ -7,3 +7,5 @@ x=1+2
 # substraction
 
 # Division
+
+# persentage
